@@ -175,13 +175,12 @@ const Index = () => (
           <ProjectsWrapper>
             <ProjectCard
               title="Tell us about your injury"
-              link="https://www.behance.net/gallery/58937147/Freiheit"
               bg="linear-gradient(to right, #D4145A 0%, #FBB03B 100%)"
             >
-              This project is my entry to Adobe's #ChallengeYourPerspective contest.
+              We’ll ask you some background questions about your injury and what appointment times are convenient.
             </ProjectCard>
             <ProjectCard
-              title="Harry Potter"
+              title="We offer a bunch of services"
               link="https://www.behance.net/gallery/52915793/Harry-Potter"
               bg="linear-gradient(to right, #662D8C 0%, #ED1E79 100%)"
             >
