@@ -158,9 +158,9 @@ const Index = () => (
       <Content speed={0.4} offset={0}>
         <Hero>
           <BigTitle>
-            Hello, <br /> I'm John Doe.
+            Hello, <br /> I'm Karan Dev.
           </BigTitle>
-          <Subtitle>I'm creating noice web experiences for the next generation of consumer-facing companies.</Subtitle>
+          <Subtitle>I'm a physiotherapist</Subtitle>
         </Hero>
       </Content>
       <DividerMiddle
@@ -291,8 +291,8 @@ const Index = () => (
           </ContactText>
         </Inner>
         <Footer>
-          &copy; 2018 by Gatsby Starter Portfolio Cara.{' '}
-          <a href="https://github.com/LekoArts/gatsby-starter-portfolio-cara">Github Repository</a>.
+          &copy; 2018 by Anonyo.{' '}
+          <a href="https://github.com/anonyo">Github Repository</a>.
         </Footer>
       </Content>
       <Divider speed={0.1} offset={4}>
